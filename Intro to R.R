@@ -1,5 +1,5 @@
 # R script to accomp Intro to R
-# Copy for RStudent 2019
+# Copy kkm for RStudent 2019
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
